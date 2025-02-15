@@ -1,0 +1,54 @@
+{
+   "pokemon": [
+    {
+        "id": 1,
+        "image": "Bulbasaur.png",
+        "name": "Bulbasaur",
+        "purchased": false,
+        "price": 0.0001
+    },
+    {
+        "id": 2,
+        "image": "Charmander.png",
+        "name": "Charmander",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 3,
+        "image": "Eevee.png",
+        "name": "Eevee",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 4,
+        "image": "Pikachu.png",
+        "name": "Pikachu",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 5,
+        "image": "Psyduck.png",
+        "name": "Psyduck",
+        "purchased": false,
+        "price": 0.0001
+    },{
+        "id": 6,
+        "image": "Scyther.png",
+        "name": "Scyther",
+        "purchased": false,
+        "price": 0.0002
+    },{
+        "id": 7,
+        "image": "Squirtle.png",
+        "name": "Squirtle",
+        "purchased": false,
+        "price": 0.0002
+    },{
+        "id": 8,
+        "image": "Tauros.png",
+        "name": "Tauros",
+        "purchased": false,
+        "price": 0.0001
+    }
+
+]}
